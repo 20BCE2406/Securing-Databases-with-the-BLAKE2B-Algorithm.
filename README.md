@@ -1,2 +1,1 @@
-# Securing-Databases-with-the-BLAKE2B-Algorithm.
-An Authentication approch
+# Implementation-of-BLAKE2B-algorithm-to-authenticate-a-Database
